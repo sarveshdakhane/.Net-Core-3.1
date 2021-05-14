@@ -11,7 +11,7 @@ namespace MYSQL_and_EFCore
             using (var context = new personeContext())
             {
 
-                // To create the new entry in DB
+                // To create the new entry in DataBase
 
                 //var Emp = new Employee()
                 //{
